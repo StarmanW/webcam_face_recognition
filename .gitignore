@@ -1,4 +1,4 @@
 .idea
 /img/*
-/results/*
+results/*
 *__pycache__*
